@@ -1,5 +1,4 @@
 # SQL-Foodie-FI-Case-Study-Analysis
-# SQL-Foodie-Fi-Analysis
 
 
 # 🍽️ Foodie-Fi SQL Case Study 
