@@ -103,4 +103,4 @@ This project helped strengthen my skills in:
 
 ## 👨‍💻 Author
 **Shubham Gupta**
-# LinkedIN:https://www.linkedin.com/in/shubham-gupta-529986294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+**LinkedIN** :https://www.linkedin.com/in/shubham-gupta-529986294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
